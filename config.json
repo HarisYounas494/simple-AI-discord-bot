@@ -1,0 +1,14 @@
+{
+    "bot_token": "MTA3Nzg0MDIxNzU4MDUwMzA5MA.GIMSyc.A4DN_o3_37qBBNYgzj1MRjW2Gwv2vMwoixafRg",
+    "status": {
+        "state": "online",
+        "type": "PLAYING",
+        "name": "Chat simulator"
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "brainID": "174005",
+        "key": "gxKgiKoNGW8bW62a",
+        "channel": "1089553919950209125"
+    }
+}
